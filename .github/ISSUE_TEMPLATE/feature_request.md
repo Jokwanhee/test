@@ -1,20 +1,18 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Development
+about: Describe a new feature development
+title: "[Feature]"
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 기능 요약
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 상세 개발 계획
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 고려 사항
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 추가 설명
+
+[ ] Please check Assignee, Labels and Milestone
